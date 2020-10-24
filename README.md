@@ -1,1 +1,1 @@
-# amazaon-pay-react
+# amazon-pay-react
